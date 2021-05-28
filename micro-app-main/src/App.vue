@@ -34,6 +34,16 @@ export default {
                     key: "Home",
                     title: "主页",
                     path: "/",
+                },
+                {
+                    key: "VueMicroApp",
+                    title: "Vue 主页",
+                    path: "/vue",
+                },
+                {
+                    key: "VueMicroAppList",
+                    title: "Vue 列表页",
+                    path: "/vue/list",
                 }
             ]
         }
@@ -73,7 +83,8 @@ html, body,#main-app {
 }
 
 .main-menu {
-  width: 50px;
+  min-width: 50px;
+    padding: 0 10px;
   background: rgba(0,18,45,.86);
 }
 .main-menu-item{
