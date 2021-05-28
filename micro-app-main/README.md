@@ -1,4 +1,4 @@
-# micro-app-main
+# micro-app-vue
 
 ## Project setup
 ```
