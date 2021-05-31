@@ -8,7 +8,7 @@ const apps = [
      */
     {
       name: "VueMicroApp",
-      entry: "//localhost:8090",
+      entry: "//localhost:9080",
       container: "#frame",
       activeRule: "/vue",
     },
